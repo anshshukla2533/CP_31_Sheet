@@ -1,1 +1,5 @@
 800/*.exe
+*exe
+*.dll  
+*.so
+*.dylib
